@@ -124,6 +124,6 @@ STATIC_URL = '/static/'
 
 # Bot settings
 
-TOKEN = '1095406610:AAEeS8CnOn4RPD_66dUCxhCLXupgoLVdx84'
+TOKEN = '1488'
 
 PROXY_URL = 'https://telegg.ru/orig/bot'
